@@ -21,13 +21,13 @@ O **MediFlow** é uma plataforma de pré-atendimento inteligente projetada para 
 A documentação foi gerada utilizando a técnica de *One-Shot Injection*, onde a saída de uma atividade serviu de contexto exato para a próxima.
 
 Scaffold_Discovery/
-├── docs/
-│   ├── definicao_problema.md   # Declaração do problema, persona e objetivos.
-│   ├── prd.md                  # Product Requirements Document (Requisitos e Escopo).
-│   ├── spec_tech.md            # Especificação Técnica (Arquitetura, Stack, Segurança).
-│   ├── spec_ui.md              # Especificação de Interface e Fluxos de Navegação.
-│   └── prompt_stitch.md        # Engenharia de prompt utilizada para geração de UI.
-└── README.md                   # Documentação principal do projeto.
+docs/
+definicao_problema.md   # Declaração do problema, persona e objetivos.
+ prd.md                  # Product Requirements Document (Requisitos e Escopo).
+spec_tech.md            # Especificação Técnica (Arquitetura, Stack, Segurança).
+spec_ui.md              # Especificação de Interface e Fluxos de Navegação.
+prompt_stitch.md        # Engenharia de prompt utilizada para geração de UI.
+/README.md                   # Documentação principal do projeto.
 
 ---
 
