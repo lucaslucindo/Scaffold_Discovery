@@ -1,6 +1,6 @@
 # Scaffold Discovery - MediFlow
 
-Atividade da disciplina Projeto Integrado de Aplicações do curso Desenvolvimento Full Stack, voltado ao cenário comum em clínicas médicas, com tudo elaborei os markdown do projeto chamado MediFlow.
+Atividade da disciplina **Projeto Integrado de Aplicações** do curso **Desenvolvimento Full Stack**, voltado ao cenário comum em clínicas médicas, com tudo elaborei os markdown do projeto chamado **MediFlow**.
 
 ## Sobre o Projeto
 
